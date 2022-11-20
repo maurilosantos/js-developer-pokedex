@@ -6,9 +6,7 @@ Projeto "Construindo uma Pokédex com JavaScript" da DIO, onde encontramos perso
 
 [Acesse aqui.](https://maurilosantos.github.io/js-developer-pokedex/)
 
-
-
-![](C:\Users\user\Desktop\mobile.png)
+![](https://github.com/maurilosantos/js-developer-pokedex/blob/main/assets/mobile.png?raw=true)
 
 
 
