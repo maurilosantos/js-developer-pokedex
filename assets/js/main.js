@@ -45,3 +45,8 @@ loadMoreButton.addEventListener('click', () => {
         loadPokemonItens(offset, limit)
     }
 })
+
+
+function infoPokemon(){
+    window.location.href = '.';
+}
