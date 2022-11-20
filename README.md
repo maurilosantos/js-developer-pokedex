@@ -13,10 +13,9 @@ Projeto "Construindo uma Pokédex com JavaScript" da DIO, onde encontramos perso
 ### Aprendizado
 
 - Entendendo o funcionamento do protocolo HTTP.
-- Através da API buscamos as caractéristicas e imagens dos Pokémons. 🔥🌊🍃
-
-- Tornamos o Layout responsivo usando "Mobile First".
 - Estudos de Path Params / QueryStrings e como funciona as requisições.
+- Através da API buscamos as caractéristicas e imagens dos Pokémons. 🔥🌊🍃
+- Tornamos o Layout responsivo usando "Mobile First".
 - Conceitos utilizados de Promise, Map.
 
 ### Tecnologias utilizadas
@@ -24,5 +23,5 @@ Projeto "Construindo uma Pokédex com JavaScript" da DIO, onde encontramos perso
 - Javascript
 - CSS
 - HTML
-- GIT / GITHUB , VSCode.
+- GIT / Github, VSCode.
 
